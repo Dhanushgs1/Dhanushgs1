@@ -1,77 +1,201 @@
 <h1 align="center">Hi 👋, I'm Dhanush G</h1>
+
 <h3 align="center">
-AI & Data Science Graduate | Python Full Stack & GenAI Enthusiast
+AI Engineer | Python Backend Developer | Building AI Products
 </h3>
 
 <p align="center">
-Passionate about building real-world applications using Python, APIs, data, and AI.
+I build AI-powered applications using Python, FastAPI, LLMs, RAG, Vector Databases, and Cloud technologies.
 </p>
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=dhanushgs1&label=Profile%20views&color=0e75b6&style=flat" alt="dhanushgs1" />
-</p>
-
----
-
-### 👨‍💻 About Me
-- 🎓 B.E. in **Artificial Intelligence & Data Science**
-- 🐍 Strong interest in **Python Backend & Full Stack Development**
-- 🤖 Exploring **AI, ML, Deep Learning, LLMs & RAG**
-- 🛠️ Love working on **real projects over theory**
-- 🚀 Focused on continuous learning and real-world impact
-
----
-
-### 🌱 Currently Learning
-- Machine Learning algorithms & applications  
-- Deep Learning & Neural Networks  
-- FastAPI / Flask for backend development  
-- GenAI concepts (LLMs, RAG)
-
----
-
-### 📫 Contact
-- 📧 Email: **dhanushgovindhang@gmail.com**
-- 💼 LinkedIn:  
-<a href="https://www.linkedin.com/in/dhanush-gs/" target="_blank">
-LinkedIn Profile
+<p align="center">
+<a href="https://github.com/dhanushgs1">
+<img src="https://komarev.com/ghpvc/?username=dhanushgs1&label=Profile+Views&color=0e75b6&style=flat"/>
 </a>
 
----
-
-### 🧠 Coding Practice
-**LeetCode Stats**  
-<a href="https://leetcode.com/profile/points/" target="_blank">
-leetcode.com/profile/points
+<a href="https://github.com/dhanushgs1?tab=followers">
+<img src="https://img.shields.io/github/followers/dhanushgs1?style=social"/>
 </a>
 
----
-
-### 🛠️ Languages & Tools
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+<img src="https://img.shields.io/badge/Open%20to-AI%20Engineer-success"/>
+<img src="https://img.shields.io/badge/Python-Expert-blue"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=dhanushgs1&show_icons=true&theme=default"/>
+# 🚀 About Me
+
+🎓 AI & Data Science Graduate
+
+💼 AI Engineer passionate about building real-world AI applications.
+
+💡 Interested in
+
+- Generative AI
+- AI Agents
+- Retrieval Augmented Generation (RAG)
+- Machine Learning
+- Backend Development
+- Automation
+- Data Engineering
+
+I enjoy solving real business problems using AI rather than building demo projects.
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+- Python
+- SQL
+- JavaScript
+- HTML
+- CSS
+
+### Backend
+
+- FastAPI
+- Flask
+- REST APIs
+
+### AI / ML
+
+- OpenAI
+- LangChain
+- LlamaIndex
+- HuggingFace
+- Transformers
+- Scikit-learn
+- TensorFlow
+- PyTorch
+
+### Databases
+
+- PostgreSQL
+- Supabase
+- MongoDB
+- SQLite
+- Qdrant
+- pgvector
+
+### Cloud & DevOps
+
+- Docker
+- Git
+- GitHub
+- AWS (Learning)
+
+---
+
+# 🔥 Featured Projects
+
+## 🤖 AI Knowledge Base
+
+Enterprise AI Knowledge Base built using
+
+- FastAPI
+- Supabase
+- pgvector
+- OpenAI
+- RAG
+- Document Search
+
+⭐ Features
+
+- PDF Upload
+- Semantic Search
+- AI Chat
+- Workspace Management
+- Role Based Access
+
+---
+
+## 📊 Marketplace Management System
+
+AI-powered Seller Dashboard
+
+Features
+
+- Amazon Integration
+- Flipkart Integration
+- Sales Analytics
+- Campaign Tracking
+- Inventory Monitoring
+- AI Insights
+
+---
+
+## 💹 AI Trading Dashboard
+
+Personal AI Assistant for Trading
+
+Features
+
+- Portfolio Tracking
+- AI Stock Analysis
+- Risk Management
+- News Analysis
+- Watchlist
+- Trading Journal
+
+---
+
+# 🌱 Currently Learning
+
+- Agentic AI
+- MCP
+- Multi Agent Systems
+- AWS
+- Kubernetes
+- AI Product Development
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhanushgs1&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushgs1&layout=compact&theme=tokyonight"/>
+
 </p>
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanushgs1&layout=compact"/>
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushgs1&theme=tokyonight"/>
+
 </p>
 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushgs1"/>
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dhanushgs1&theme=tokyonight&column=4"/>
+
 </p>
 
+---
+
+# 📫 Connect with Me
+
+📧 Email
+
+**dhanushgovindhang@gmail.com**
+
+💼 LinkedIn
+
+https://linkedin.com/in/dhanush-gs
+
+🐙 GitHub
+
+https://github.com/dhanushgs1
+
+---
+
+# 💬 Quote
+
+> "Building AI products that solve real-world problems."
